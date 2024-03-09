@@ -1,0 +1,5 @@
+// This readme file contains important information about the project,
+// including installation instructions and how you can contribute
+
+// Add your index.js code here
+// This is where you can start writing your project's code
